@@ -1,0 +1,4 @@
+- better cli
+- auto browse reddit grid
+- auto browse pinterest
+- wrap windows application, linux, etc. (don't know how to do on mac but should be simple...)
