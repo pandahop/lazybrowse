@@ -1,4 +1,4 @@
-# lazybrowse
+# lazypics
 tired of the scrolling wheel when you just want pics from r/art, or pinterest, or your favourite magna sites? use lazybrowse!
 # requirements
 - python3 (I used python 3.7)
